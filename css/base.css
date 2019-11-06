@@ -6,7 +6,7 @@ ul,
 li,
 i,
 u,
-img {
+img,p {
 	margin: 0;
 	padding: 0;
 	text-decoration: none;

@@ -333,3 +333,43 @@
 	margin-right: 21px;
 	margin-left: 9px;
 }
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child{
+	height: 231px;
+	margin-top: 10px;
+	border: 1px solid #ededed;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li{
+	float: left;
+	position: relative;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li a{
+	display: inline-block;
+	width: 199px;
+	height: 231px;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li a img{
+	margin-left: 42px;
+	margin-top: 20px;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li a p{
+	font-family: SimSun;
+	font-size: 12px;
+	line-height: 22px;
+	color: #666666;
+	margin-left: 36px;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li a span{
+	font-family: Microsoft Yahei;
+	font-size: 18px;
+	color: #df3033;
+	margin-left: 36px;
+}
+.middle .middlemid .middlemidfoot .middlemidfootfoot div:last-child ul li a i{
+	display: inline-block;
+	width: 1px;
+	height: 62px;
+	background-color: #ededed;
+	position: absolute;
+	right: 0;
+	bottom: 9px;
+}
