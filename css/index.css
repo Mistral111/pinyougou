@@ -373,3 +373,42 @@
 	right: 0;
 	bottom: 9px;
 }
+.middle .middlefoot{
+	margin-top: 30px;
+}
+.middle .middlefoot .middlefoottop .middlefoottoptop i{
+	font-family: Microsoft Yahei;
+	font-size: 18px;
+	color: #333333;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot{
+	height: 405px;
+	border: 1px solid #ededed;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootleft{
+	width: 404px;
+	height: 405px;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootcenter .middlefoottopfootcenterleft{
+	width: 226px;
+	height: 405px;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootcenter .middlefoottopfootcenterleft div{
+	height: 39px;
+	border-bottom: 1px dashed #ededed;
+	text-align: center;
+	line-height: 39px;
+	font-family: Microsoft Yahei;
+	font-size: 14px;
+	color: #333333;
+	font-weight: 600;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootcenter .middlefoottopfootcenterleft ul li:first-child{
+	width: 226px;
+	height: 206px;
+	border-bottom: 1px solid #ededed;
+}
+.middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootcenter .middlefoottopfootcenterleft ul li:last-child{
+	width: 226px;
+	height: 158px;
+}
