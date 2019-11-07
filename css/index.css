@@ -436,5 +436,13 @@
 .middle .middlefoot .middlefoottop .middlefoottopfoot .middlefoottopfootcenter .middlefoottopfootcenterright div:nth-child(2){
 	height: 206px;
 	border-bottom: 1px solid #ededed;
-	
+}
+.middlefoottopfootright ul li{
+	width: 80px;
+	height: 57px;
+	float: left;
+	border-bottom: 1px dashed #e0e0e0;
+}
+.middlefoottopfootright ul li a img{
+	margin-left: 6px;
 }
